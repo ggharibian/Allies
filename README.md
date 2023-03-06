@@ -27,6 +27,9 @@ Simply install our all-in-one app (to be released on the App Store and Play Stor
 * **Cost**
   * Most pragmatically, your rideshare costs will cut dramatically when you have your allies by your side!😊
 
+![Join](./auxmedia/demo.gif)
+
+
 &nbsp;&nbsp;
 
 ## Build
