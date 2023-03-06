@@ -1,22 +1,31 @@
-# Welcome to Allies! 😁
+# Never fear, your allies are here! 🥳
 
-## What is Allies?
+*$130+ Uber from LAX to UCLA!?* Don't wanna pay these insane prices? ***Allies Await!***!
 
-$100+ Uber to get back to campus? Don't wanna pay these insane prices? Allies to the rescue!
+![Join](./auxmedia/figma.png)
 
-With Allies, you can split your Uber fees amongst your fellow allies and save the day (and your wallets!).
+With Allies, you can split your rideshare fees amongst your fellow allies and save the day (and your wallets!).
 
-Simply install our all-in-one app (to be released on the app store soon), choose your destination, provide your insta, and watch as allies connects you with many more allies who are going to the same place as you!
+Allies allows you to connect to UCLA students who are going to the same place you are. Simply sign-in with your UCLA email and enter:
 
-Benefits: 
-- Safety in numbers!
-    - Don't feel comfortable riding in a strangers car? Get your allies to join you!
-- Environment!
-    - Less fuel spent overall when you share your ride!
-- Cost!
-    - Your Uber costs will cut dramatically when you have your allies by your side! 😊
+* **Time and Date** (either now, or in the future)
+  * For example, if my flight lands at a certain time or if the concert ends at a fixed time
+* **Starting Location** (where your quest begins)
+  * Use our interactive map (via the Google Maps API) to pick the exact location 
+* **Ending Location** (where your quest ends) 
 
-![Join](./auxmedia/home.png)
+And voila! You will be instantly matched to other UCLA students with the same criteria as you and can reach out via Instagram. 
+
+Simply install our all-in-one app (to be released on the App Store and Play Store soon), choose your destination, provide your insta handle, and watch as Allies connects you with many more allies who are going to the same place as you! Why Allies?
+
+* **Safety in Numbers**
+  * Don't feel comfortable riding in a strangers car? Get your allies to join you, with fellow Bruins you can trust!
+* **Environment**
+  * Less fuel spent overall when you share your ride! Safer for the planet, and safer for you! 
+* **Cost**
+  * Most pragmatically, your rideshare costs will cut dramatically when you have your allies by your side!😊
+
+&nbsp;&nbsp;
 
 ## Build
 
