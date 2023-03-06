@@ -1,3 +1,0 @@
-# CarpoolClub
-
-frontend section
