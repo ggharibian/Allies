@@ -1,0 +1,70 @@
+.home {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://i.pinimg.com/originals/6c/7d/4e/6c7d4e66489a58251253a741adf9c8b9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .home-title {
+    font-size: 3.5vmax;
+    margin-bottom: 10px;
+    font-family: 'Quicksand';
+    font-weight: bold;
+    color: grey;
+  }
+
+  .no-gutters-col {
+    margin-top: 10px; 
+    display: flex; 
+  }
+
+  .bodyCard2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: vertical;
+    height: 99vh; 
+  }
+
+  .headerCard2 { 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px; 
+    width: 75vw; 
+    font-family: 'Quicksand';
+  }
+
+  .centerRow { 
+    align-items: center;
+    justify-content: center;
+    font-family: 'Quicksand';
+  }
+
+  .titleCard2 {
+    height: 75vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .cal_widgetCard {
+    height: 82vh;
+    width: 60vw;
+    margin-top: 0vh;
+    margin-bottom: 2vh;
+    padding: 1rem;
+  }
+  
+  .cal_datePicker {
+    font-size: 16px;
+    font-family: 'Nunito Sans';
+  }
