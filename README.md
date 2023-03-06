@@ -16,6 +16,8 @@ Benefits:
 - Cost!
     - Your Uber costs will cut dramatically when you have your allies by your side! 😊
 
+![Join](./auxmedia/home.gif)
+
 ## Build
 
 ### Frontend
