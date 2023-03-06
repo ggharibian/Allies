@@ -14,9 +14,11 @@ Allies allows you to connect to UCLA students who are going to the same place yo
   * Use our interactive map (via the Google Maps API) to pick the exact location 
 * **Ending Location** (where your quest ends) 
 
-And voila! You will be instantly matched to other UCLA students with the same criteria as you and can reach out via Instagram. 
+And voila! You will be instantly matched to other UCLA students in the same boat as you and can reach out via Instagram. 
 
-Simply install our all-in-one app (to be released on the App Store and Play Store soon), choose your destination, provide your insta handle, and watch as Allies connects you with many more allies who are going to the same place as you! Why Allies?
+Simply install our all-in-one app (to be released on the App Store and Play Store soon), choose your destination, provide your insta handle, and watch as Allies connects you with many more allies who are going to the same place as you! 
+
+## Why Allies?
 
 * **Safety in Numbers**
   * Don't feel comfortable riding in a strangers car? Get your allies to join you, with fellow Bruins you can trust!
